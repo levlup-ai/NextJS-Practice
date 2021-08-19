@@ -1,0 +1,17 @@
+.red{
+   color:red;
+   text-align: center;
+   text-transform: capitalize;
+   font-weight: 800;
+   font-size: 32px;
+   font-family: Arial, Helvetica, sans-serif; 
+}
+
+.para{
+    color: blue;
+    text-align: center;
+    text-transform: lowercase;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
